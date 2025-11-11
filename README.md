@@ -12,6 +12,9 @@ These projects demonstrate my skills in Java, including loops, functions, condit
 **Test2.java** – Basic exercise using conditional statements (if, else if, else).  
 **Test3.java** – Combines loops and functions to solve a logical programming task.  
 **TestFinal.java** – Final Java project that brings together loops, conditions, and user input.
+**AssurancePlan.java** – A program that calculates insurance plans or premiums based on user data.  
+**StudentGrade.java** – Calculates student grades and displays average performance using conditions.  
+**MilitarySchoolEnrollment.java** – Simulates a basic enrollment system using Java input and validation.
 
 
 
